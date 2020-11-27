@@ -1,5 +1,11 @@
 ## Introduction
 
+NOTE: 
+My files are found with the "figure" 📁 folder with the repository, 
+My Plot images are found within the data folder within the figure folder.
+The "figure" folder was created within the forked assignment that was provided by the professors.
+
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
