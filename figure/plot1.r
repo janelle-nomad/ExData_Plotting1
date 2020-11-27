@@ -1,3 +1,5 @@
+# Exploratory Data Analysis Project 1 by Janelle H | Data Science
+
 library("data.table")
 
 setwd("/Users/jane/work/ds/r/dsspec/ExData_Plotting1/data")
